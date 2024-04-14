@@ -1,0 +1,11 @@
+/* Custom CSS for error icons */
+.error-icon {
+    position: absolute;
+    top: 0;
+    right: 5px;
+}
+
+/* Hide error icons by default */
+.error-icon {
+    display: none;
+}
